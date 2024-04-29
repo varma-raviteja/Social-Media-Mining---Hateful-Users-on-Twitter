@@ -11,4 +11,4 @@ We show the effectiveness and scalability of our approach in identifying and cla
 This repository contains 
 1. Hateful_User1.ipynb : Fitting SVM, KNN, GCN, Naive Bayes, Decision Tree and Random Forest
 2. Hateful_User2.ipynb : Implementing GraphSAGE Algorithm
-3. LASSO_SelectedFeautres.ipynb : To select which feautures to use in training the model which are explicitly used in other code files.
+3. LASSO_SelectedFeatures.ipynb : To select which feautures to use in training the model which are explicitly used in other code files.
